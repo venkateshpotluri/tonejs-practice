@@ -1,0 +1,28 @@
+//logs of code that works:
+in first set of tones. time argument in callBack is 0.26829166666666665
+time argument in barsBeatsSixteenths is0:0:2.146
+in first set of tones. time argument in callBack is 0.7682916666666667
+time argument in barsBeatsSixteenths is0:1:2.146
+in first set of tones. time argument in callBack is 1.2682916666666666
+time argument in barsBeatsSixteenths is0:2:2.146
+in first set of tones. time argument in callBack is 1.7682916666666666
+time argument in barsBeatsSixteenths is0:3:2.146
+in second set of tones. time argument in callBack is 2.169333333333333
+time argument in barsBeatsSixteenths is1:0:1.355
+in second set of tones. time argument in callBack is 3.169333333333333
+time argument in barsBeatsSixteenths is1:2:1.355
+
+// logs of the code that doesn't work:
+in second set of tones. time argument in callBack is 0.18000000000000002
+time argument in barsBeatsSixteenths is0:0:1.44
+in first set of tones. time argument in callBack is 0.27895833333333336
+time argument in barsBeatsSixteenths is0:0:2.232
+in first set of tones. time argument in callBack is 0.7789583333333333
+time argument in barsBeatsSixteenths is0:1:2.232
+in second set of tones. time argument in callBack is 1.18
+time argument in barsBeatsSixteenths is0:2:1.44
+in first set of tones. time argument in callBack is 1.2789583333333334
+time argument in barsBeatsSixteenths is0:2:2.232
+in first set of tones. time argument in callBack is 1.7789583333333334
+time argument in barsBeatsSixteenths is0:3:2.232
+
